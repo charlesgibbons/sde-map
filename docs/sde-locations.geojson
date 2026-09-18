@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.14,
+          52.176
+        ]
+      },
+      "properties": {
+        "name": "Eastern England SDE",
+        "url": "http://www.easternsde.nhs.uk",
+        "location": "Cambridge University Hospitals NHS Foundation Trust",
+        "data": [
+          "Secondary care",
+          "Prescribing",
+          "Diagnostics",
+          "Mortality",
+          "Demographics"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1285,
+          51.5045
+        ]
+      },
+      "properties": {
+        "name": "NHS England",
+        "url": "https://digital.nhs.uk/services/data-access-request-service-dars",
+        "location": "NHS Digital, Skipton House, London",
+        "data": [
+          "Hospital Episodes",
+          "Emergency Care",
+          "Primary Care",
+          "Prescribing",
+          "Lab Results/Pathology",
+          "Mental Health",
+          "Social Care",
+          "Mortality"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1168,
+          50.8182
+        ]
+      },
+      "properties": {
+        "name": "Kent, Medway and Sussex SDE",
+        "url": "http://www.sussex.ics.nhs.uk/our-work/our-priorities/digital/kent-medway-and-sussex-secure-data-environment-for-research/",
+        "location": "University Hospitals Sussex NHS Foundation Trust, Brighton",
+        "data": [
+          "Primary Care (Medications, Immunisations, Problems, Prescribing)",
+          "Secondary Care (Emergency/Planned admissions)",
+          "Community & Social Care",
+          "Ambulance, 111, Mental health, Maternity"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1,
+          51.519
+        ]
+      },
+      "properties": {
+        "name": "London SDE",
+        "url": "https://www.onelondon.online/london-secure-data-environment/",
+        "location": "OneLondon, Central and East London Health Innovation Network",
+        "data": [
+          "Primary care",
+          "Secondary care",
+          "Prescribing",
+          "Community",
+          "Mental health",
+          "Social care",
+          "Demographics"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6243,
+          54.9755
+        ]
+      },
+      "properties": {
+        "name": "North East and North Cumbria SDE",
+        "url": "https://northeastnorthcumbria.nhs.uk/our-work/secure-data-environment/",
+        "location": "Newcastle upon Tyne Hospitals NHS Foundation Trust",
+        "data": [
+          "Primary care",
+          "Secondary care",
+          "Prescribing",
+          "Diagnostics",
+          "Community",
+          "Mental health",
+          "Mortality",
+          "Maternity",
+          "Demographics",
+          "Genomics",
+          "Social care",
+          "Vaccinations",
+          "Ambulatory care"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2225,
+          53.4573
+        ]
+      },
+      "properties": {
+        "name": "North West SDE",
+        "url": "http://northwestsde.nhs.uk/",
+        "location": "Manchester University NHS Foundation Trust",
+        "data": [
+          "Primary care",
+          "Secondary care",
+          "Social care",
+          "Demographics",
+          "Mental health",
+          "Mortality",
+          "Diagnostics",
+          "Prescribing",
+          "Community",
+          "Maternity"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.596,
+          51.4594
+        ]
+      },
+      "properties": {
+        "name": "South West SDE",
+        "url": "https://www.southwestsde.nhs.uk/research/",
+        "location": "University Hospitals Bristol and Weston NHS Foundation Trust",
+        "data": [
+          "Primary care",
+          "Secondary care",
+          "Demographics",
+          "Diagnostics",
+          "Mortality",
+          "Prescribing",
+          "(Coming 2025: Social care, Mental health, Genomics, Community, Maternity, Vaccinations)"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2179,
+          51.7583
+        ]
+      },
+      "properties": {
+        "name": "Thames Valley and Surrey SDE",
+        "url": "https://thamesvalleyandsurreyhealthandcaredata.nhs.uk/using-patient-data/thames-valley-and-surrey-secure-data-environment/",
+        "location": "Oxford Health NHS Foundation Trust",
+        "data": [
+          "Demographics",
+          "Diagnostics",
+          "Prescribing",
+          "Episodes",
+          "Treatments",
+          "Outcomes",
+          "Maternity",
+          "Genomics",
+          "Community care",
+          "Free text",
+          "Images",
+          "Clinical letters"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8717,
+          52.5094
+        ]
+      },
+      "properties": {
+        "name": "West Midlands SDE",
+        "url": "http://westmidlandssde.nhs.uk/",
+        "location": "University Hospitals Birmingham NHS Foundation Trust",
+        "data": [
+          "Secondary care",
+          "Prescribing",
+          "Diagnostics",
+          "Maternity"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.396,
+          50.9346
+        ]
+      },
+      "properties": {
+        "name": "Wessex SDE",
+        "url": "https://wessexsde.nhs.uk/",
+        "location": "University of Southampton, Faculty of Medicine",
+        "data": [
+          "Secondary care",
+          "Prescribing",
+          "Diagnostics",
+          "Community",
+          "Mental health",
+          "Mortality",
+          "Maternity",
+          "Demographics",
+          "Genomics",
+          "Social care"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5508,
+          53.8021
+        ]
+      },
+      "properties": {
+        "name": "Yorkshire and Humber SDE",
+        "url": "http://yorkshirehumbersde.nhs.uk/",
+        "location": "Leeds Teaching Hospitals NHS Trust",
+        "data": [
+          "Primary care",
+          "Secondary care",
+          "Prescribing",
+          "Diagnostics",
+          "Community",
+          "Mental health",
+          "Mortality",
+          "Maternity",
+          "Demographics",
+          "Social care",
+          "Vaccinations",
+          "Notable: CUREd+, Connected Bradford, NPIC, DATA-CAN"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
+    }
+  ]
+}
