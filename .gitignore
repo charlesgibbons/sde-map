@@ -1,0 +1,45 @@
+# Source data (large files, not typically committed)
+source/**/*.geojson
+source/**/*.json
+source/**/*.zip
+source/**/*.shp
+source/**/*.shx
+source/**/*.dbf
+source/**/*.prj
+
+# Processed data (generated, can be recreated)
+processed/*.geojson
+
+# Aggregated output - only ignore large generated files, not the viewer and SDE files
+aggregated/all.geojson
+aggregated/all-boundaries.geojson
+aggregated/viewer_updated.html
+aggregated/viewer_debug.html
+aggregated/trust-hospital-visualization.html
+aggregated/*.backup.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.env
