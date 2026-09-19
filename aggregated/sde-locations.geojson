@@ -301,6 +301,30 @@
         "type": "SDE",
         "layer": "sdes"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1184,
+          51.5055
+        ]
+      },
+      "properties": {
+        "name": "Guys & St Thomas' SDE",
+        "url": "https://www.guysandstthomas.nhs.uk/",
+        "location": "Guys & St Thomas' NHS Trust, London",
+        "data": [
+          "Secondary care",
+          "Diagnostics",
+          "Pathology",
+          "Imaging",
+          "Clinical notes"
+        ],
+        "type": "SDE",
+        "layer": "sdes"
+      }
     }
   ]
 }
